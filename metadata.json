@@ -1,0 +1,6 @@
+{
+  "name": "Поле Чудес: Испанский язык",
+  "description": "Обучающая игра «Поле Чудес» по испанскому языку: вращайте барабан, отвечайте на грамматические вопросы с переводом и разгадайте спрятанное слово PENDEJOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
